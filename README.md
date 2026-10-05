@@ -521,6 +521,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 ---
+- **[cliproxy-rs](https://github.com/vayungodara/cliproxy-rs)** – Local proxy that lets Claude Code, Codex CLI, Gemini CLI, OpenCode and other tools use the Claude and ChatGPT accounts and API keys you already have through one endpoint, translating between the Anthropic, OpenAI and Gemini APIs. Rotates across accounts and shows each account's 5-hour and weekly limits in a built-in dashboard. Rust port of CLIProxyAPI, MIT.
 
 ## AI Frameworks and SDKs
 
